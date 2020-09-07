@@ -1,0 +1,36 @@
+{
+  "cn": {
+    "titleTable": "代理財務報表",
+    "datetime": "日期",
+    "parentid": "代理帐号",
+    "currency": "币别",
+    "parentincome": "代理损益金额",
+    "noMatch": "没有找到匹配的资料",
+    "ownerAcc": "总代理帐号",
+    "parentAcc": "代理帐号",
+    "groupby": "结算周期",
+    "hour": "时",
+    "day": "日",
+    "month": "月",
+    "year": "年",
+    "startDate": "开始日期",
+    "endDate": "结束日期"
+  },
+  "en": {
+    "titleTable": "Agent Finance Report",
+    "datetime": "Date",
+    "parentid": "Agent Account",
+    "currency": "Currency",
+    "parentincome": "Agent Profit",
+    "noMatch": "Sorry, no matching records found",
+    "ownerAcc": "General Agent Account",
+    "parentAcc": "Agent Account",
+    "groupby": "Settlement Interval",
+    "hour": "Hour",
+    "day": "Day",
+    "month": "Month",
+    "year": "Year",
+    "startDate": "Start Date",
+    "endDate": "End Date"
+  }
+}

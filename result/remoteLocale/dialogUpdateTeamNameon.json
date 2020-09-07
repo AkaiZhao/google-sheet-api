@@ -1,0 +1,14 @@
+{
+  "cn": {
+    "title": "更改团队名称",
+    "contentLabel": "团队名称",
+    "cancel": "取消",
+    "confirm": "更改"
+  },
+  "en": {
+    "title": "Change team name",
+    "contentLabel": "Team name",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  }
+}

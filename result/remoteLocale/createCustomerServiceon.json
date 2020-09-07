@@ -1,0 +1,24 @@
+{
+  "cn": {
+    "account": "帐号",
+    "password": "密码",
+    "nickname": "暱称",
+    "createCustomerService": "新增客服",
+    "create": "新增",
+    "warning": "密码需为 8〜16 码英文，数字组合 ( 可含 - or _ )",
+    "leastEight": "密码最少 8 码",
+    "mostSixteen": "密码最多 16 码",
+    "required": "此为必填栏位"
+  },
+  "en": {
+    "account": "Account",
+    "password": "Password",
+    "nickname": "Nickname",
+    "createCustomerService": "Create Customer Service",
+    "create": "Create",
+    "warning": "Password must be a combination of 8 to 16 numbers and letters ( - or _ is allow ).",
+    "leastEight": "Password must be at least 8 characters.",
+    "mostSixteen": "Password must be at most 16 characters.",
+    "required": "Password is a required field."
+  }
+}

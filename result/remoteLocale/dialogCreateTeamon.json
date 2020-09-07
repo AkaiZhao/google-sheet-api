@@ -1,0 +1,14 @@
+{
+  "cn": {
+    "title": "建立团队",
+    "contentLabel": "团队名称",
+    "cancel": "取消",
+    "confirm": "确定"
+  },
+  "en": {
+    "title": "Create team",
+    "contentLabel": "Team name",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  }
+}

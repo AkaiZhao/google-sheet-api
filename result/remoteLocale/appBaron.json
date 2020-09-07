@@ -1,0 +1,12 @@
+{
+  "cn": {
+    "asiaShanhai": "（北京）",
+    "americaNewYork": "（伦敦）",
+    "europeLondon": "（美东）"
+  },
+  "en": {
+    "asiaShanhai": "(CST)",
+    "americaNewYork": "(GMT)",
+    "europeLondon": "(EST)"
+  }
+}

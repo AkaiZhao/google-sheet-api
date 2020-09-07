@@ -1,0 +1,38 @@
+{
+  "cn": {
+    "titleTable": "玩家列表",
+    "noMatch": "没有找到匹配的资料",
+    "playerAcc": "玩家帐号",
+    "roundid": "单号",
+    "signUpAt": "注册时间",
+    "loginAt": "最近登入时间",
+    "neverLogin": "未曾登入",
+    "currency": "币别",
+    "balance": "馀额",
+    "more": "更多",
+    "orderSearch": "注单查询",
+    "transactionSearch": "交易查询",
+    "agentAcc": "代理帐号",
+    "sort": "排序",
+    "asc": "递增",
+    "desc": "递减"
+  },
+  "en": {
+    "titleTable": "Player List",
+    "noMatch": "Sorry, no matching records found",
+    "playerAcc": "Player Account",
+    "roundid": "Round Id",
+    "signUpAt": "Sign Up At",
+    "loginAt": "Last Sign In At",
+    "neverLogin": "Never Login",
+    "currency": "Currency",
+    "balance": "Balance",
+    "more": "More",
+    "orderSearch": "Order Search",
+    "transactionSearch": "Transaction Search",
+    "agentAcc": "Agent Account",
+    "sort": "Sort",
+    "asc": "ASC",
+    "desc": "DESC"
+  }
+}

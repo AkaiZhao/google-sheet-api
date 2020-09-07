@@ -1,0 +1,38 @@
+{
+  "cn": {
+    "titleTable": "派彩查询",
+    "agentAcc": "代理帐号",
+    "playerAcc": "玩家帐号",
+    "startDate": "开始日期",
+    "endDate": "结束日期",
+    "period": "期數",
+    "promoname": "活动名称",
+    "account": "玩家帐号",
+    "parentAcc": "代理帐号",
+    "amount": "派彩金额",
+    "mtcode": "交易代码",
+    "sendtime": "派发时间",
+    "promoList": "活动清单",
+    "ranking": "排行",
+    "totalRanking": "总榜单",
+    "All": "全部"
+  },
+  "en": {
+    "titleTable": "Payoff Search",
+    "agentAcc": "Agent Account",
+    "playerAcc": "Player Account",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "period": "Period",
+    "promoname": "Promo Name",
+    "account": "Account",
+    "parentAcc": "Agent Account",
+    "amount": "Amount",
+    "mtcode": "Transaction ID",
+    "sendtime": "Payoff time",
+    "promoList": "Promo List",
+    "ranking": "Ranking",
+    "totalRanking": "Total Ranking",
+    "All": "All"
+  }
+}

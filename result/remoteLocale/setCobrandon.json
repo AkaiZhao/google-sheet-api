@@ -1,0 +1,18 @@
+{
+  "cn": {
+    "gamecode": "游戏代号",
+    "style": "类型",
+    "width": "宽度",
+    "height": "高度",
+    "spin": "按钮",
+    "watermark": "浮水印"
+  },
+  "en": {
+    "gamecode": "Game code",
+    "style": "Style",
+    "width": "Wdith",
+    "height": "Height",
+    "spin": "Spin",
+    "watermark": "Watermark"
+  }
+}

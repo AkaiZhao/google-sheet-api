@@ -1,0 +1,14 @@
+{
+  "cn": {
+    "login": "登入",
+    "systemOffice": "系统商",
+    "username": "帐号",
+    "password": "密码"
+  },
+  "en": {
+    "login": "Login",
+    "systemOffice": "System Office",
+    "username": "Account",
+    "password": "Password"
+  }
+}

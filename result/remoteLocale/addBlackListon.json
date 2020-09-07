@@ -1,0 +1,20 @@
+{
+  "cn": {
+    "title": "新增游戏至黑名单",
+    "parentid": "代理帐号",
+    "gamecode": "游戏代号",
+    "dialogTitle": "新增游戏至黑名单",
+    "dialogDescription": "所有代理的子代皆会被影响！",
+    "dialogDisagree": "取消",
+    "dialogAgree": "执行"
+  },
+  "en": {
+    "title": "Add Black List",
+    "parentid": "Parent ID",
+    "gamecode": "Game Code",
+    "dialogTitle": "Add game to black list",
+    "dialogDescription": "All sub accounts under the account will be affected!",
+    "dialogDisagree": "Cancel",
+    "dialogAgree": "Confirm"
+  }
+}

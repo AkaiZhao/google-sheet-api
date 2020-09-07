@@ -1,0 +1,38 @@
+{
+  "cn": {
+    "titleTable": "代理列表",
+    "noMatch": "没有找到匹配的资料",
+    "agentAcc": "代理帐号",
+    "status": "状态",
+    "Enable": "启用",
+    "Disable": "停用",
+    "signUpAt": "注册时间",
+    "currency": "币别",
+    "sw": "单一(无缝)钱包",
+    "more": "更多",
+    "detail": "详细资料",
+    "changePwd": "更改密码",
+    "show": "显示",
+    "notShow": "不显示",
+    "currencySign": "币别符号",
+    "testAgent": "测试帐号"
+  },
+  "en": {
+    "titleTable": "Agent List",
+    "noMatch": "Sorry, no matching records found",
+    "agentAcc": "Agent Account",
+    "status": "Status",
+    "Enable": "Enable",
+    "Disable": "Disable",
+    "signUpAt": "Sign Up At",
+    "currency": "Currency",
+    "sw": "Seamless Wallet",
+    "more": "More",
+    "detail": "Detail Information",
+    "changePwd": "Change Password",
+    "show": "Display",
+    "notShow": "Hidden",
+    "currencySign": "CurrencySign",
+    "testAgent": "Test Agent"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cn": {
+    "titleTable": "团队列表",
+    "teamname": "团队名称",
+    "setting": "设定",
+    "memberManagement": "成员管理",
+    "permissionManagement": "权限管理",
+    "changeTeamName": "更改团队名称",
+    "delete": "删除",
+    "createTeam": "建立团队"
+  },
+  "en": {
+    "titleTable": "Team List",
+    "teamname": "Team Name",
+    "setting": "Setting",
+    "memberManagement": "\bMember Management",
+    "permissionManagement": "\bPermission Management",
+    "changeTeamName": "Change Team Name",
+    "delete": "Delete",
+    "createTeam": "Create Team"
+  }
+}

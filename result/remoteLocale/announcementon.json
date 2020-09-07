@@ -1,0 +1,30 @@
+{
+  "cn": {
+    "loginErrorMessage": "登入失败，请确认您的输入资料和类型。",
+    "success": "成功",
+    "modifySuccess": "修改成功",
+    "copiedSuccess": "复制成功",
+    "pwdChangeSuccess": "密码修改成功",
+    "noMatchData": "没有符合的资料",
+    "fail": "失敗",
+    "somethingWrong": "有东西坏了",
+    "inputError": "栏位输入错误",
+    "serviceFailed": "发生了一些问题，请联系管理员。",
+    "tooManyRequests": "请求太频繁，请稍后再试。",
+    "timeout": "当前条件资料量过大，请修改查询条件"
+  },
+  "en": {
+    "loginErrorMessage": "Login failed, please confirm your input data and type.",
+    "success": "Success",
+    "modifySuccess": "Modify success",
+    "copiedSuccess": "Copy ok",
+    "pwdChangeSuccess": "Change password success .",
+    "noMatchData": "No matching records found",
+    "fail": "Failed",
+    "somethingWrong": "Something wrong",
+    "inputError": "Input Error",
+    "serviceFailed": "Some problems have occurred, please contact the administrator.",
+    "tooManyRequests": "Too Many Requests.",
+    "timeout": "Result is too large to display. Please adjust search parameters."
+  }
+}

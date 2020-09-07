@@ -1,0 +1,14 @@
+{
+  "cn": {
+    "title": "关闭",
+    "cancel": "取消",
+    "confirm": "确定",
+    "content": "确定要执行此操作吗？"
+  },
+  "en": {
+    "title": "Turn off",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "content": "Please reconfirm your change."
+  }
+}

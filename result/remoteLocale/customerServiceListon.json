@@ -1,0 +1,30 @@
+{
+  "cn": {
+    "titleTable": "客服列表",
+    "noMatch": "没有找到匹配的资料",
+    "csAcc": "客服帐号",
+    "status": "状态",
+    "Enable": "启用",
+    "Disable": "停用",
+    "signUpAt": "注册时间",
+    "loginAt": "最近登入时间",
+    "neverLogin": "未曾登入",
+    "more": "更多",
+    "detail": "详细资料",
+    "changePwd": "更改密码"
+  },
+  "en": {
+    "titleTable": "Customer Service List",
+    "noMatch": "Sorry, no matching records found",
+    "csAcc": "Customer Account",
+    "status": "Status",
+    "Enable": "Enable",
+    "Disable": "Disable",
+    "signUpAt": "Sign Up At",
+    "loginAt": "Last Sign In At",
+    "neverLogin": "Never Login",
+    "more": "More",
+    "detail": "Detail Information",
+    "changePwd": "Change Password"
+  }
+}

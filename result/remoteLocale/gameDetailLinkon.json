@@ -1,0 +1,32 @@
+{
+  "cn": {
+    "slotTitle": "游戏纪录细单",
+    "lottoTitle": "体彩游戏纪录细单",
+    "roundid": "单号",
+    "gamehall": "游戏厂商",
+    "gameType": "游戏类型",
+    "all": "全部",
+    "cq9": "CQ9",
+    "uv": "UV",
+    "sportAndLotto": "体育彩票",
+    "slotAndTable": "机率牌桌",
+    "lineInformation": "线路选择",
+    "chinaLine": "中国线路",
+    "internationalLine": "国际线路"
+  },
+  "en": {
+    "slotTitle": "Game History Detail",
+    "lottoTitle": "Sport/Lotto Game History Detail",
+    "roundid": "Round ID",
+    "gamehall": "Game Hall",
+    "gameType": "Game Category",
+    "all": "All",
+    "cq9": "CQ9",
+    "uv": "UV",
+    "sportAndLotto": "Sport/Lotto",
+    "slotAndTable": "Slot/Table",
+    "lineInformation": "Line Information",
+    "chinaLine": "China line",
+    "internationalLine": "International line"
+  }
+}
